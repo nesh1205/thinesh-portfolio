@@ -87,7 +87,7 @@ export const projects = [
       'Smooth Animations',
     ],
     image: '/projects/portfolio.png',
-    github: 'https://github.com/yourusername/portfolio',
+    github: 'https://github.com/nesh1205/thinesh-portfolio.git',
     live: null,
   },
 ];
