@@ -90,6 +90,34 @@ export const projects = [
     github: 'https://github.com/nesh1205/thinesh-portfolio.git',
     live: null,
   },
+  {
+    id: 'ai-scam-detector',
+    title: 'AI Scam Detector',
+    category: 'AI + Full Stack Web Application',
+    description:
+      'An AI-powered scam detection platform developed as a Final Year Project (FYP) that analyzes suspicious text and URLs using Google Gemini AI with a built-in rule-based fallback engine and admin analytics dashboard.',
+    tech: [
+      'Python Flask',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Google Gemini AI',
+      'Firebase Firestore'
+    ],
+    features: [
+      'Text Scam Detection',
+      'URL Scam Analysis',
+      'AI-Powered Threat Analysis',
+      'Rule-Based Fallback Engine',
+      'Scam Probability Scoring',
+      'Admin Analytics Dashboard',
+      'Scan History Storage',
+      'Responsive Modern UI'
+    ],
+    image: '/projects/ai-scam-detector.png',
+    github: 'https://github.com/nesh1205/ai-scam-detector',
+    live: null,
+  },
 ];
 
 export const experience = [
