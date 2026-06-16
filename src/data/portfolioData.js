@@ -36,7 +36,7 @@ export const skills = {
   Frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],
   Backend: ['Python', 'Flask', 'REST API'],
   Database: ['MySQL', 'SQLite', ],
-  Tools: ['GitHub', 'VS Code', 'Postman', 'XAMPP', 'AI Coding Tools'],
+  Tools: ['GitHub', 'VS Code', 'Postman', 'XAMPP', 'AI Coding Tools','Cursor'],
   Professional: [
     'Fast Learner',
     'Leadership',
