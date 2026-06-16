@@ -25,7 +25,7 @@ export const aboutContent = {
     'My goal is to grow as a well-rounded developer who can own features from concept to deployment, with clean code and thoughtful architecture.',
   ],
   stats: [
-    { label: 'Projects Built', value: 2, suffix: '+' },
+    { label: 'Projects Built', value: 3, suffix: '+' },
     { label: 'Technologies', value: 12, suffix: '+' },
     { label: 'Internship Experience', value: 1, suffix: '' },
     { label: 'Passion for Code', value: 100, suffix: '%' },
