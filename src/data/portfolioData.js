@@ -5,7 +5,7 @@ export const personalInfo = {
   email: 'thineshrama1205@gmail.com',
   github: 'https://github.com/nesh1205',
   linkedin: 'https://linkedin.com/in/yourusername',
-  resumePath: 'Resume.pdf',
+  resumePath: 'Main Resume.pdf',
   location: 'Malaysia',
 };
 
