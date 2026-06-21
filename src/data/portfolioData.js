@@ -4,7 +4,7 @@ export const personalInfo = {
   tagline: 'Building Practical Systems with Modern Technologies',
   email: 'thineshrama1205@gmail.com',
   github: 'https://github.com/nesh1205',
-  linkedin: 'www.linkedin.com/in/thinesh-rama-598012418',
+  linkedin: 'https://www.linkedin.com/in/thinesh-rama-598012418/?skipRedirect=true',
   resumePath: 'Main Resume.pdf',
   location: 'Malaysia',
 };
